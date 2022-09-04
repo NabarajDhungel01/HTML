@@ -4,11 +4,15 @@ body{
     font-family: sans-serif;
     border: 2px solid blue;
 }
+.lel{
+    color: black;
+    background-color: blue;
+}
 .ext{
     color: black;
-    background-color: blueviolet;
+   background-color: red;
 }
 .sdx{
     color: black;
-    background-color: blueviolet;
+    background-color: orange;
 }
